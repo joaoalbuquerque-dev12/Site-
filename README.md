@@ -48,10 +48,6 @@ site-profissional/
 
 Como executar o projeto
 
-Faça o download do projeto ou clone o repositório:
-
-git clone https://github.com/seuusuario/seu-projeto.git
-
 Entre na pasta do projeto:
 
 cd seu-projeto
